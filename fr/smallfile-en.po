@@ -14,10 +14,6 @@ msgstr "Une capture d'écran du site Web."
 msgid "City"
 msgstr "Ville"
 
-#: /views/partials/format-visuals/websites.j2:7
-msgid "London"
-msgstr "London"
-
 #: /views/partials/footer.j2:74
 msgid "AMP Brand Materials"
 msgstr "Matériaux de la marque AMP"
