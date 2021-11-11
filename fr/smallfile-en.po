@@ -14,10 +14,6 @@ msgstr "Une capture d'écran du site Web."
 msgid "City"
 msgstr "Ville"
 
-#: /views/partials/footer.j2:74
-msgid "AMP Brand Materials"
-msgstr "Matériaux de la marque AMP"
-
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
 msgstr "Caches AMP et CORS"
